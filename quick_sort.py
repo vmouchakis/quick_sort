@@ -18,3 +18,5 @@ def quick_sort(sequence):
 
 
 print(quick_sort([3, 5, 1, 7, 4, 8]))
+
+# Complexity O(n^2)
